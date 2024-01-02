@@ -1,0 +1,17 @@
+{
+  "name": "web5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@web5/api": "^0.8.3",
+    "@web5/credentials": "^0.4.1",
+    "webcrypto": "^0.1.1"
+  },
+  "type": "module"
+}
